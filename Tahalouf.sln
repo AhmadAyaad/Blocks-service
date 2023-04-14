@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tahalouf.API", "Tahalouf.API\Tahalouf.API.csproj", "{2371AB44-5B73-4708-859A-0241D95DD92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tahalouf.App", "Tahalouf.App\Tahalouf.App.csproj", "{455BEDFF-5A13-4F61-A382-70125EAA33D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2371AB44-5B73-4708-859A-0241D95DD92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2371AB44-5B73-4708-859A-0241D95DD92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2371AB44-5B73-4708-859A-0241D95DD92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2371AB44-5B73-4708-859A-0241D95DD92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455BEDFF-5A13-4F61-A382-70125EAA33D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455BEDFF-5A13-4F61-A382-70125EAA33D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455BEDFF-5A13-4F61-A382-70125EAA33D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455BEDFF-5A13-4F61-A382-70125EAA33D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BAB5B1-6D13-44C0-9A10-4F83AC4D5B48}
+	EndGlobalSection
+EndGlobal
